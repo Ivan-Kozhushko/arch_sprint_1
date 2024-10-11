@@ -87,3 +87,4 @@
 Не хватает знаний по react
 
 ## Задание 2
+https://github.com/Ivan-Kozhushko/arch_sprint_1/blob/sprint_1/arch_sprint_1_task_2.drawio
